@@ -36,3 +36,14 @@ public class   <classname> {
 </VRGRAPHICS>
 
 
+Extension: .wpk  wallet  file
+==========
+
+
+ADVANTAGES
+==========
+
+A)  ABLE   TO  CREATE   a    virtual  Reality   Graphics  using   wallet by  VRGS  programming  language 
+
+
+
