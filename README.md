@@ -1,7 +1,7 @@
 # VGCS
 ======
 
-VGCS   is    VirtualReality  Graphics   Programming   Language    invented   in  dotweb3.0(jdollar)  Programming Language  by  wilmix   jemin  j.
+VGCS   is    VirtualReality  Graphics   Programming   Language    invented   in  dotweb3.0  Programming Language  by  wilmix   jemin  j.
 
 
 
